@@ -1,0 +1,120 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/depression-elixhauser-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/current-depression-elixhauser-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/depression-elixhauser-primary-care-depressn---primary.py
+inputModule5:
+  class: File
+  path: python/manicdepressive-depression-elixhauser-primary-care---primary.py
+inputModule6:
+  class: File
+  path: python/depression-elixhauser-primary-care-administration---primary.py
+inputModule7:
+  class: File
+  path: python/depression-elixhauser-primary-care-personality---primary.py
+inputModule8:
+  class: File
+  path: python/depression-elixhauser-primary-care-dysthymia---primary.py
+inputModule9:
+  class: File
+  path: python/depression-elixhauser-primary-care-letter---primary.py
+inputModule10:
+  class: File
+  path: python/neurotic-depression-elixhauser-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/severe-depression-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/depression-elixhauser-primary-care-management---primary.py
+inputModule13:
+  class: File
+  path: python/psychotic-depression-elixhauser-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/depression-elixhauser-primary-care-prolonged---primary.py
+inputModule15:
+  class: File
+  path: python/postnatal-depression-elixhauser-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/schizoaffective-depression-elixhauser-primary-care---primary.py
+inputModule17:
+  class: File
+  path: python/depression-elixhauser-primary-care-masked---primary.py
+inputModule18:
+  class: File
+  path: python/depression-elixhauser-primary-care-manicdepress---primary.py
+inputModule19:
+  class: File
+  path: python/depression-elixhauser-primary-care-grief---primary.py
+inputModule20:
+  class: File
+  path: python/depression-elixhauser-primary-care-treatment---primary.py
+inputModule21:
+  class: File
+  path: python/brief-depression-elixhauser-primary-care---primary.py
+inputModule22:
+  class: File
+  path: python/depression-elixhauser-primary-care-service---primary.py
+inputModule23:
+  class: File
+  path: python/depression-elixhauser-primary-care-first---primary.py
+inputModule24:
+  class: File
+  path: python/reactive-depression-elixhauser-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/atypical-depression-elixhauser-primary-care---primary.py
+inputModule26:
+  class: File
+  path: python/depression---primary.py
+inputModule27:
+  class: File
+  path: python/adverse-depression-elixhauser-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/depression-elixhauser-primary-care-recurr---primary.py
+inputModule29:
+  class: File
+  path: python/seasonal-depression-elixhauser-primary-care---primary.py
+inputModule30:
+  class: File
+  path: python/endogenous-depression-elixhauser-primary-care---primary.py
+inputModule31:
+  class: File
+  path: python/depression-elixhauser-primary-care-anxiety---primary.py
+inputModule32:
+  class: File
+  path: python/depression-elixhauser-primary-care-agitated---primary.py
+inputModule33:
+  class: File
+  path: python/other-depression-elixhauser-primary-care---primary.py
+inputModule34:
+  class: File
+  path: python/psychogenic-depression-elixhauser-primary-care---primary.py
+inputModule35:
+  class: File
+  path: python/depression-elixhauser-primary-care-unspec---primary.py
+inputModule36:
+  class: File
+  path: python/depression-elixhauser-primary-care-review---primary.py
+inputModule37:
+  class: File
+  path: python/depression-elixhauser-primary-care-disord---primary.py
+inputModule38:
+  class: File
+  path: python/major-depression-elixhauser-primary-care---primary.py
+inputModule39:
+  class: File
+  path: python/vital-depression-elixhauser-primary-care---primary.py
+inputModule40:
+  class: File
+  path: python/output-cases.py
